@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for test-dwflmw on 2026-11-13T15:19:04Z
+# fly.toml app configuration file generated for net-ljgn7q on 2026-11-13T20:13:33Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'test-dwflmw'
-primary_region = 'fra'
+app = 'net-ljgn7q'
+primary_region = 'ams'
 
 [build]
 [http_service]
